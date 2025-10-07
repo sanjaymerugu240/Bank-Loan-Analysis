@@ -1,0 +1,41 @@
+python
+Python is a high-level, versatile programming language.
+Widely used for data analysis, machine learning, and web development.
+Supports extensive libraries and frameworks.
+Enables writing readable and maintainable code.
+
+pandas
+Pandas is a library for data manipulation and analysis.
+Provides DataFrame and Series data structures for handling tabular data.
+Offers tools for filtering, grouping, and aggregating data.
+Ideal for cleaning, transforming, and analyzing datasets efficiently.
+
+numpy
+NumPy is a library for numerical computations in Python.
+Provides powerful array and matrix data structures.
+Supports mathematical operations, linear algebra, and statistical functions.
+Essential for fast and efficient computation on large datasets.
+
+matplotlib
+Matplotlib is a plotting library for Python.
+Allows creation of line plots, bar charts, histograms, and more.
+Highly customizable with various styling options.
+Often used for data visualization in exploratory data analysis.
+
+seaborn
+Seaborn is a statistical data visualization library.
+Built on top of Matplotlib for enhanced plotting aesthetics.
+Simplifies creation of complex plots like heatmaps and pair plots.
+Helps reveal patterns, trends, and relationships in data.
+
+plotly
+Plotly is a library for interactive and web-based visualizations.
+Supports line charts, scatter plots, treemaps, and dashboards.
+Enables zooming, hovering, and real-time interaction with plots.
+Useful for dynamic data storytelling and presentation.
+
+jupyter
+Jupyter Notebook is an interactive coding environment.
+Allows mixing code, text, visualizations, and markdown in one interface.
+Widely used for data analysis, machine learning, and reporting.
+Supports execution of Python code in a cell-by-cell workflow.
